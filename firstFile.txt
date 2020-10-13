@@ -1,0 +1,10 @@
+Hello Java!
+Hello python!
+3  I learn
+4  Git
+5
+6
+7
+8
+9
+10
