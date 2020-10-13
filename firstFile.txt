@@ -1,5 +1,5 @@
-Hello Java!
-Hello python!
+Hello Java 11!
+Hello python 22!
 3  I learn
 4  Git
 5
